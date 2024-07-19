@@ -1,2 +1,3 @@
 # qt
-study record
+
+qt 6.8.0
